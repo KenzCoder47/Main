@@ -9,4 +9,5 @@ local Codes = {
     "[🟡] Peodiz",
     "[🟡] WELCOMETOKINGLEGACY"
 }
+
 return Codes
