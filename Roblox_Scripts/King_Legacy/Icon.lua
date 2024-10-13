@@ -1,6 +1,6 @@
 local StarHubX = {
     Icon_Data = {
-        Information    = "rbxassetid://10723415903",
+        Script_Information    = "rbxassetid://10723415903",
         Main           = "rbxassetid://10723407389",
         Premium        = "rbxassetid://10709818626",
         Farm_Settings  = "rbxassetid://10734950020",
